@@ -1,0 +1,31 @@
+Lead ID,Customer Name,Business Name,Industry,Employee Count,Requirement,Budget,Timeline,Lead Score,Lead Category,Recommended Service,Conversion Status
+L001,Customer 01,Demo Restaurant,Retail Restaurant,11–25,Managing customer enquiries,"₹25,000–₹50,000",Within 1 month,75,WARM,AI Customer Support,Pending
+L002,Customer 02,Demo Clothing Store,Retail,6–10,Online customer support,"₹10,000–₹25,000",Within 3 months,55,WARM,AI Customer Support,Not Converted
+L003,Customer 03,Demo IT Company,Technology,26–50,Lead management and follow-up,"₹50,000–₹1,00,000",Within 1 month,90,HOT,AI Lead Management,Converted
+L004,Customer 04,Demo Healthcare Clinic,Healthcare,11–25,Appointment enquiries,"₹25,000–₹50,000",Within 3 months,65,WARM,AI Appointment Assistant,Pending
+L005,Customer 05,Demo Real Estate,Real Estate,51–100,Lead generation and qualification,"₹1,00,000+",Within 1 month,95,HOT,AI Lead Management,Converted
+L006,Customer 06,Demo Education Institute,Education,26–50,Student enquiries,"₹50,000–₹1,00,000",Within 1 month,85,HOT,AI Enquiry Assistant,Converted
+L007,Customer 07,Demo Travel Agency,Travel,6–10,Customer enquiries,"₹10,000–₹25,000",Within 6 months,45,COLD,AI Customer Support,Not Converted
+L008,Customer 08,Demo Finance Firm,Finance,11–25,Customer follow-up,"₹25,000–₹50,000",Within 3 months,70,WARM,AI Follow-up Assistant,Pending
+L009,Customer 09,Demo E-commerce Store,E-commerce,26–50,Order and customer enquiries,"₹50,000–₹1,00,000",Within 1 month,88,HOT,AI Customer Support,Converted
+L010,Customer 10,Demo Marketing Agency,Marketing,11–25,Lead qualification,"₹25,000–₹50,000",Within 3 months,72,WARM,AI Lead Managemen,Not Converted
+L011,Customer 11,Demo Furniture Store,Retail,11–25,Managing customer enquiries,"₹25,000–₹50,000",Within 3 months,68,WARM,AI Customer Support,Pending
+L012,Customer 12,Demo Software Startup,Technology,6–10,Lead generation and follow-up,"₹50,000–₹1,00,000",Within 1 month,92,HOT,AI Lead Management,Converted
+L013,Customer 13,Demo Dental Clinic,Healthcare,6–10,Appointment enquiries,"₹10,000–₹25,000",Within 1 month,78,WARM,AI Appointment Assistant,Pending
+L014,Customer 14,Demo Construction Firm,Construction,51–100,Lead qualification,"₹1,00,000+",Within 1 month,96,HOT,AI Lead Management,Converted
+L015,Customer 15,Demo Coaching Centre,Education,11–25,Student enquiries,"₹25,000–₹50,000",Within 3 months,73,WARM,AI Enquiry Assistant,Not Converted
+L016,Customer 16,Demo Hotel,Travel & Hospitality,26–50,Customer enquiries,"₹50,000–₹1,00,000",Within 1 month,89,HOT,AI Customer Support,Converted
+L017,Customer 17,Demo Insurance Agency,Finance,6–10,Lead follow-up,"₹25,000–₹50,000",Within 3 months,61,WARM,AI Follow-up Assistant,Pending
+L018,Customer 18,Demo Grocery Store,Retail,11–25,Order enquiries,"₹10,000–₹25,000",Within 6 months,48,COLD,AI Customer Support,Not Converted
+L019,Customer 19,Demo Digital Agency,Marketing,26–50,Lead qualification,"₹50,000–₹1,00,000",Within 1 month,87,HOT,AI Lead Management,Converted
+L020,Customer 20,Demo Automobile Dealer,Automotive,51–100,Customer enquiries,"₹1,00,000+",Within 3 months,81,HOT,AI Customer Support,Pending
+L021,Customer 21,Demo Law Firm,Professional Services,6–10,Client enquiries,"₹25,000–₹50,000",Within 3 months,64,WARM,AI Enquiry Assistant,Pending
+L022,Customer 22,Demo Gym,Fitness,11–25,Membership enquiries,"₹10,000–₹25,000",Within 1 month,76,WARM,AI Customer Support,Converted
+L023,Customer 23,Demo Logistics Company,Logistics,26–50,Lead management,"₹50,000–₹1,00,000",Within 1 month,91,HOT,AI Lead Management,Converted
+L024,Customer 24,Demo Salon,Beauty,6–10,Appointment enquiries,"₹10,000–₹25,000",Within 6 months,52,COLD,AI Appointment Assistant,Not Converted
+L025,Customer 25,Demo Restaurant 2,Retail Restaurant,26–50,Managing customer enquiries,"₹50,000–₹1,00,000",Within 1 month,86,HOT,AI Customer Support,Converted
+L026,Customer 26,Demo Event Company,Events,11–25,Customer enquiries,"₹25,000–₹50,000",Within 3 months,69,WARM,AI Enquiry Assistant,Pending
+L027,Customer 27,Demo E-learning Platform,Education,51–100,Student lead generation,"₹1,00,000+",Within 1 month,94,HOT,AI Lead Management,Converted
+L028,Customer 28,Demo Pharmacy,Healthcare,11–25,Customer enquiries,"₹25,000–₹50,000",Within 3 months,58,WARM,AI Customer Support,Not Converted
+L029,Customer 29,Demo Recruitment Agency,Professional Services,26–50,Lead follow-up,"₹50,000–₹1,00,000",Within 1 month,83,HOT,AI Follow-up Assistant,Converted
+L030,Customer 30,Demo Electronics Store,Retail,11–25,Product enquiries,"₹25,000–₹50,000",Within 3 months,63,WARM,AI Customer Support,Pending
