@@ -26,12 +26,11 @@ Google Colab is used for analytics and visualizations.
 
 ## Repository Structure
 
-```text
 SalesMate-AI/
 ├── README.md
 ├── project-documentation.md
+├── build-guide.md
 ├── workflows.md
-├── prompts/
 ├── workflows/
 ├── colab/
 ├── data/
